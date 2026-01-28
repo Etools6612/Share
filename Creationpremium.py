@@ -1,6 +1,6 @@
 # ENJOY OPEN SOURCE AUTO CREATE FB 
-# AUTHOR : ETHAN KLEIN HUILEN
-# GITHUB  : MR-ERROR-708
+# AUTHOR : KRISTEL
+# GITHUB  : MR-ERROR-70871910
 # THANK YOU.
 #▬▭▬▭▬▭▬▭[IMPORT]▬▭▬▭▬▭▬▭#
 import os,sys,re,time,json,mechanize,asyncio,aiohttp,requests,urllib.parse,bs4,string,faker,fake_email,random,uuid,hashlib,subprocess,platform,marshal,zlib,base64
@@ -392,7 +392,7 @@ logo=(Colorate.Horizontal(Colors.green_to_white, """
  ▐▌ ▐  ▌ ▐  ▗▘▝▖    ▗▘ ▘▐ ▝▌▐    ▐▌  ▐  ▐       ▐   ▐  ▌
  ▌▐ ▐  ▌ ▐  ▐  ▌    ▐   ▐▄▄▘▐▄▄▖ ▌▐  ▐  ▐▄▄▖    ▐▄▄▖▐▄▄▘
  ▙▟ ▐  ▌ ▐  ▐  ▌    ▐   ▐ ▝▖▐    ▙▟  ▐  ▐       ▐   ▐  ▌
-▐  ▌▝▄▄▘ ▐   ▙▟      ▚▄▘▐  ▘▐▄▄▖▐  ▌ ▐  ▐▄▄▖    ▐   ▐▄▄▘"""" MR-ERROR"))
+▐  ▌▝▄▄▘ ▐   ▙▟      ▚▄▘▐  ▘▐▄▄▖▐  ▌ ▐  ▐▄▄▖    ▐   ▐▄▄▘"""" "))
 info=(f"""{style} \033[1;32mAUTHOR   \033[1;37m: \033[1;32mKRISTEL
 {style} \033[1;32mFACEBOOK \033[1;37m: \033[1;32mKRISTEL MAE
 {style} \033[1;32mTYPE     \033[1;37m: \033[1;32mAUTO CREATE FACEBOOK
@@ -509,3 +509,4 @@ def confirm_id(mail,uid,otp,data,ses,random_password):
 #else:asyncio.run(bypass())
 if __name__ == '__main__':
     main()
+
